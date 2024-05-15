@@ -1,3 +1,1 @@
-Print( THIS IS A TEST)
-
-
+print('THIS IS Another TEST')
